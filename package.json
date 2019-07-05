@@ -1,0 +1,15 @@
+{
+  "name": "require-resolve-webpack-woe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "compile": "webpack --mode none"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5"
+  }
+}
